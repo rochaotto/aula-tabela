@@ -1,12 +1,12 @@
 .tabelela-informcoes-dev > thead > tr > th{
-    border: 1px solid black;
+    border: 1px solid #000000;
 }
 .tabelela-informcoes-dev > tbody > tr > td{
-    border: 1px solid black;
-    background-color: bisque;
+    border: 1px solid #000000;
+    background-color: #ffe2c2;
 }
 .th-dev {
-    background-color: darkkhaki;
+    background-color: #bdb76b;
 }
 .titulo-contexto-moda {
     background-color: #cc84fc;
