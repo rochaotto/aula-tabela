@@ -1,0 +1,33 @@
+.titulo-contexto-moda {
+    background-color: #cc84fc;
+}
+
+.titulo-contexto-casa {
+    background-color: #04c4b4;
+}
+
+.texto {
+    color: white;
+}
+
+td {
+    background-color: #444454;
+    color: white;
+}
+
+.tabela, .contexto {
+    margin: 20px 0px;
+}
+
+.contexto {
+    font-size: 26px;
+}
+
+tr > th {
+    text-align: center;
+    padding: 5px 10px;
+}
+
+tr > td {
+    padding: 5px;
+}
